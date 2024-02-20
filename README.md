@@ -24,12 +24,8 @@ Siga os passos abaixo para configurar e executar o chatbot:
 
 ## 🎥 Vídeo de Demonstração
 
-Assista ao vídeo de demonstração abaixo para entender melhor como o chatbot funciona:
+Assista ao vídeo de demonstração [clicando aqui](https://youtu.be/zvJBhDS-uiA) para entender melhor como o chatbot funciona.
 
-<video width="640" height="360" controls>
-  <source src="https://www.youtube.com/watch?v=zvJBhDS-uiA" type="video/mp4">
-  Seu navegador não suporta a tag de vídeo.
-</video>
 
 ## 🌟 Funcionalidades Principais
 
